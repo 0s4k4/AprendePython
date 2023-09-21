@@ -5,6 +5,8 @@
 
 def run(a: int, b: int, c: int) -> tuple:
     # TU C�DIGO AQU�
+    
+    ##actualizacion
     discriminante = b ** 2 - 4 * a * c
 
     if discriminante > 0:
